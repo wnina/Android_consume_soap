@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="d:\maestria\semestreI\Programacion_Web\android_soap\AndroidSoap\AndroidSoap\MyListAdapter.cs">
+    <Files>
+      <File FileName="AndroidSoap\ViewElement.cs" Line="32" Column="1" />
+      <File FileName="AndroidSoap\ResultSearchActivity.cs" Line="41" Column="6" />
+      <File FileName="d:\maestria\semestreI\Programacion_Web\android_soap\AndroidSoap\AndroidSoap\MyListAdapter.cs" Line="60" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="AndroidSoap\ResultSearchActivity.cs" line="122" offsetX="219" offsetY="1903" expression="envelope" liveUpdate="False" />
+    <Watch file="d:\maestria\semestreI\Programacion_Web\android_soap\AndroidSoap\AndroidSoap\MyListAdapter.cs" line="42" offsetX="619" offsetY="652" expression="AndroidSoap.ViewElement" liveUpdate="False" />
+    <Watch file="d:\maestria\semestreI\Programacion_Web\android_soap\AndroidSoap\AndroidSoap\MyListAdapter.cs" line="38" offsetX="600" offsetY="586" expression="viewelement" liveUpdate="False" />
+    <Watch file="d:\maestria\semestreI\Programacion_Web\android_soap\AndroidSoap\AndroidSoap\MyListAdapter.cs" line="37" offsetX="532" offsetY="539" expression="AndroidSoap.ViewElement" liveUpdate="False" />
+    <Watch file="AndroidSoap\ViewElement.cs" line="27" offsetX="557" offsetY="228" expression="Android.Widget.LinearLayout" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.AndroidSoap MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" AndroidDeviceId-Debug="S4JFCMAQCEDAIRRO" />
+</Properties>

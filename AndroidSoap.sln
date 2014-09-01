@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidSoap", "AndroidSoap\AndroidSoap.csproj", "{CDA365FF-B744-4A3B-91E7-671A3247D06F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidKSoapLibrary", "AndroidKSoapLibrary\AndroidKSoapLibrary.csproj", "{8F8EB62B-29AC-40B3-AE31-3CF96CACAD4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F8EB62B-29AC-40B3-AE31-3CF96CACAD4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F8EB62B-29AC-40B3-AE31-3CF96CACAD4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F8EB62B-29AC-40B3-AE31-3CF96CACAD4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F8EB62B-29AC-40B3-AE31-3CF96CACAD4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA365FF-B744-4A3B-91E7-671A3247D06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA365FF-B744-4A3B-91E7-671A3247D06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA365FF-B744-4A3B-91E7-671A3247D06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA365FF-B744-4A3B-91E7-671A3247D06F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = AndroidSoap\AndroidSoap.csproj
+	EndGlobalSection
+EndGlobal
