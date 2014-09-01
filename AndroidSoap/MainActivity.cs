@@ -35,7 +35,6 @@ namespace AndroidSoap
 			bSearch.Click  += delegate {
 
 				string sTypeService = edTypeService.Text;
-				//sTypeService = "Ninhera";
 				i.PutExtra("TypeService", sTypeService);
 				StartActivity(i);
 

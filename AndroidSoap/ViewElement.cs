@@ -73,16 +73,9 @@ namespace AndroidSoap
 		public void createItem(LinearLayout linearlayout, TextView textview, float weight)
 		{
 	
-			//textview.LayoutParameters = new ViewGroup.LayoutParams 
-			//                           (ViewGroup.LayoutParams.MatchParent, ViewGroup.LayoutParams.MatchParent);
-
-
 			textview.LayoutParameters = new LinearLayout.LayoutParams (LinearLayout.LayoutParams.MatchParent, LinearLayout.LayoutParams.MatchParent, 1.0f);
 
-			//linearlayout.LayoutParameters = new LinearLayout.LayoutParams (0 , LayoutParams.MatchParent, weight);
-		
-			//linearlayout.AddView (textview);
-			llRow.AddView (textview);
+            llRow.AddView (textview);
 		}
 	}
 }
