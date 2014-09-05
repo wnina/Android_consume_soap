@@ -31,8 +31,7 @@ namespace AndroidSoap
 		private List<Worker> lWorker;
 		private ProgressDialog progressDialog;
 
-
-		                                       
+	                                       
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);

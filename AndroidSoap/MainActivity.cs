@@ -7,14 +7,11 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 
-
 namespace AndroidSoap
 {
 	[Activity (Label = "AndroidSoap", MainLauncher = true)]
 	public class MainActivity : Activity
 	{
-		//int count = 1;
-		
 	
 		private Context context;
 

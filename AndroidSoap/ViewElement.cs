@@ -40,7 +40,6 @@ namespace AndroidSoap
 
 			llRow = new LinearLayout (context);
 			llRow.LayoutParameters = new LinearLayout.LayoutParams (LinearLayout.LayoutParams.FillParent , LinearLayout.LayoutParams.FillParent);
-			//llRow.WeightSum = 1.0f;
 			llRow.Orientation = Orientation.Horizontal;
 		
 			llNumber = new LinearLayout (context);
